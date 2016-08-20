@@ -1,0 +1,7 @@
+console.log(SolarSystem)
+console.log(SolarSystem.getPlanet())
+console.log(SolarSystem.setPlanet("Mars"))
+console.log(SolarSystem.getActiveSpacecraft())
+console.log(SolarSystem.setActiveSpacecraft("Rocket"))
+console.log(SolarSystem.getPlanetsLandedOn())
+console.log(SolarSystem.setPlanetsLandedOn(3))
